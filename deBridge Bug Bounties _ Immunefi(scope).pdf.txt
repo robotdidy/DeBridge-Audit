@@ -1,0 +1,1066 @@
+Back to Explore
+PoC Required
+Submit a Bug
+deBridge
+deBridge is a cross-chain interoperability and liquidity transfer
+protocol that allows decentralized transfer of data and assets
+between various blockchains. The deBridge protocol is an
+infrastructure platform and hooking service for:
+Arbitrum
+Avalanche
+BSC
+ETH
+Fantom
+Heco
+Polygon
+Defi
+Infrastructure
+Bridge
+Crosschain Liquidity
+DEX
+Solidity
+Maximum Bounty
+$200,000
+Live Since
+21 January
+2022
+Last Updated
+08 October
+2025
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+1/30
+
+Select the category you'd like to explore
+Assets in Scope
+Funds
+Type
+Target
+https://snowtrace.io/address/0x4c7CA8fc
+Name
+deBridgeTokenDeployer AVAX
+Added on
+24 June 2022
+Funds
+Smart Contract
+Selected view
+Contract Filters
+0
+Search by keyword
+Total Assets in Scope
+90
+Total Impacts in Scope
+13
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+2/30
+
+Type
+Target
+https://snowtrace.io/address/0x8244d6F
+Name
+deBridgeToken Proxy AVAX
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0xFCf8364
+Name
+WethGate FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://snowtrace.io/address/0xFCf83648
+Name
+WethGate AVAX
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0x27406Eb
+Name
+SimpleFeeProxy FTM
+Added on
+24 June 2022
+Funds
+Type
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+3/30
+
+Target
+https://snowtrace.io/address/0x27406ebf
+Name
+SimpleFeeProxy AVAX
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0xc2bac0d
+Name
+SimpleFeeProxy Proxy FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://snowtrace.io/address/0xC2bAC0D
+Name
+SimpleFeeProxy Proxy AVAX
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0x55C93b2
+Name
+CallProxy FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://snowtrace.io/address/0xD34c230
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+4/30
+
+Name
+CallProxy AVAX
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0x8a0C79F
+Name
+CallProxy Proxy FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://snowtrace.io/address/0x8a0C79F
+Name
+CallProxy Proxy AVAX
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0x2a3e72e
+Name
+SignatureVerifier FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://snowtrace.io/address/0x2a3e72ed
+Name
+SignatureVerifier AVAX
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+5/30
+
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0x949b3B3
+Name
+SignatureVerifier Proxy FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://snowtrace.io/address/0x949b3B3
+Name
+SignatureVerifier Proxy AVAX
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0x4c7CA8f
+Name
+deBridgeTokenDeployer FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0xc1656B6
+Name
+deBridgeToken FTM
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+6/30
+
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://snowtrace.io/address/0xc1656B63
+Name
+deBridgeToken AVAX
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0x8244d6F
+Name
+deBridgeToken Proxy FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0xb1a20d1c
+Name
+deBridgeGate FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://snowtrace.io/address/0xb1a20d1c
+Name
+deBridgeGate AVAX
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+7/30
+
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0x43dE2d7
+Name
+deBridgeGate Proxy FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://snowtrace.io/address/0x43dE2d77
+Name
+deBridgeGate Proxy AVAX
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://ftmscan.com/address/0xE4427af3
+Name
+ProxyAdmin FTM
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://snowtrace.io/address/0xE4427af3
+Name
+ProxyAdmin AVAX
+Information
+Scope
+Smart Contract
+Resources
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+8/30
+
+Added on
+24 June 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0xBd3d657
+Name
+CallProxy HECO
+Added on
+26 April 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0xBd3d
+Name
+CallProxy MATIC
+Added on
+26 April 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0xBd3d657
+Name
+CallProxy BSC
+Added on
+26 April 2022
+Funds
+Type
+Target
+0xBd3d...B6f8
+etherscan.io
+Name
+CallProxy ETH
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+9/30
+
+Added on
+26 April 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0x24455aa
+Name
+deBridgeGate BSC
+Added on
+26 April 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0x43dE2d7
+Name
+deBridgeGate Proxy HECO
+Added on
+26 April 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0x43dE
+Name
+deBridgeGate Proxy MATIC
+Added on
+26 April 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0xC2bA
+Name
+SimpleFeeProxy Proxy MATIC
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+10/30
+
+Added on
+13 February 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0x8a0C
+Name
+CallProxy Proxy MATIC
+Added on
+13 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0xFCf8364
+Name
+WethGate HECO
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0xFCf8
+Name
+WethGate MATIC
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0xFCf8364
+Name
+WethGate BSC
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+11/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+0xFCf8...6A59
+etherscan.io
+Name
+WethGate ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0x37a52ddb7
+Name
+SimpleFeeProxy ARBI
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0x37a5
+Name
+SimpleFeeProxy MATIC
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0xC2bAC0DB
+Name
+SimpleFeeProxy Proxy HECO
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+12/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0xC2bAC0
+Name
+SimpleFeeProxy Proxy HECO
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0xC2bAC0D
+Name
+SimpleFeeProxy Proxy BSC
+Added on
+4 February 2022
+Funds
+Type
+Target
+0xC2bA...3636
+etherscan.io
+Name
+SimpleFeeProxy Proxy ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0xBd3d657AE
+Name
+CallProxy ARBI
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+13/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0x37a52dd
+Name
+SimpleFeeProxy HECO
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0x37a52dd
+Name
+SimpleFeeProxy BSC
+Added on
+4 February 2022
+Funds
+Type
+Target
+0x37a5...a83c
+etherscan.io
+Name
+SimpleFeeProxy ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0x8a0C79F55
+Name
+CallProxy Proxy ARBI
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+14/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0x8a0C79F
+Name
+CallProxy Proxy HECO
+Added on
+4 February 2022
+Funds
+Type
+Target
+0x8a0C...a824
+etherscan.io
+Name
+CallProxy Proxy ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0x8a0C79F
+Name
+CallProxy Proxy BSC
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0xfE7De3c1e1
+Name
+SignatureVerifier ARBI
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+15/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0xfE7De3c
+Name
+SignatureVerifier HECO
+Added on
+4 February 2022
+Funds
+Type
+Target
+0xfE7D...8dF4
+etherscan.io
+Name
+SignatureVerifier ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0xfE7De3c1
+Name
+SignatureVerifier BSC
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0xfE7D
+Name
+SignatureVerifier MATIC
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+16/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0x949b3B3c0
+Name
+SignatureVerifier Proxy ARBI
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0x949b3B3
+Name
+SignatureVerifier Proxy HECO
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0x949b
+Name
+SignatureVerifier Proxy MATIC
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0x949b3B3
+Name
+SignatureVerifier Proxy BSC
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+17/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+0x949b...8A8c
+etherscan.io
+Name
+SignatureVerifier Proxy ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0x4c7CA8fcF
+Name
+deBridgeTokenDeployer ARBI
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0x4c7CA8f
+Name
+deBridgeTokenDeployer HECO
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0x4c7C
+Name
+deBridgeTokenDeployer MATIC
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+18/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0x4c7CA8f
+Name
+deBridgeTokenDeployer BSC
+Added on
+4 February 2022
+Funds
+Type
+Target
+0x4c7C...5491
+etherscan.io
+Name
+deBridgeTokenDeployer ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0xf8A2902c0
+Name
+deBridgeToken ARBI
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0xf8A2
+Name
+deBridgeToken MATIC
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+19/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0xf8A2902
+Name
+deBridgeToken BSC
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0x8244d6Ffe
+Name
+deBridgeToken Proxy ARBI
+Added on
+4 February 2022
+Funds
+Type
+Target
+0xf8A2...4C2b
+etherscan.io
+Name
+deBridgeToken ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0x8244d6F
+Name
+deBridgeToken Proxy HECO
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+20/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0x8244
+Name
+deBridgeToken Proxy MATIC
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0x8244d6F
+Name
+deBridgeToken Proxy BSC
+Added on
+4 February 2022
+Funds
+Type
+Target
+0x8244...a464
+etherscan.io
+Name
+deBridgeToken Proxy ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0x24455aa55
+Name
+deBridgeGate ARBI
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+21/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0x24455aa
+Name
+deBridgeGate HECO
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0xcc75
+Name
+deBridgeGate MATIC
+Added on
+4 February 2022
+Funds
+Type
+Target
+0x2445...f8eb
+etherscan.io
+Name
+deBridgeGate ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0x43dE2d77B
+Name
+deBridgeGate Proxy ARBI
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+22/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0xf8A2902
+Name
+deBridgeGate Proxy HECO
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0x43dE2d7
+Name
+deBridgeGate Proxy BSC
+Added on
+4 February 2022
+Funds
+$622.4K
+Type
+Target
+0x43dE...98aA
+etherscan.io
+Name
+deBridgeGate Proxy ETH
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://arbiscan.io/address/0xE4427af355
+Name
+ProxyAdmin ARBI
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+23/30
+
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://hecoinfo.com/address/0xE4427af
+Name
+ProxyAdmin HECO
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://polygonscan.com/address/0xE442
+Name
+ProxyAdmin MATIC
+Added on
+4 February 2022
+Funds
+Type
+Target
+https://bscscan.com/address/0xE4427af3
+Name
+ProxyAdmin BSC
+Added on
+4 February 2022
+Funds
+Type
+Target
+0xE442...94Fe
+etherscan.io
+Name
+ProxyAdmin ETH
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+24/30
+
+Added on
+1 February 2022
+Impacts in Scope
+Severity
+Critical
+Title
+Direct theft of any user funds
+Severity
+Critical
+Title
+Permanent freezing of funds
+Severity
+Critical
+Title
+Protocol insolvency
+Severity
+Critical
+Title
+Forgery of the content of the cross-
+chain messages sent through the
+protocol
+Severity
+Critical
+Title
+Forgery of the sender address or
+chain_id of the cross-chain messages
+Collapse
+Search by keyword
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+25/30
+
+sent through the protocol
+Severity
+Critical
+Title
+Unauthorized claim without valid
+signatures from deBridge validators
+Severity
+Critical
+Title
+Unauthorized mint of the wrapped
+assets (deAssets)
+Severity
+High
+Title
+Theft of funds (<5% TVL impact)
+Severity
+High
+Title
+Permanent freezing of funds
+Severity
+High
+Title
+Temporary freezing of funds (more than
+1 day freeze)
+Severity
+Medium
+Title
+Smart contract unable to operate due
+to lack of token funds
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+26/30
+
+Severity
+Medium
+Title
+Block stuffing for profit
+Severity
+Medium
+Title
+Unbounded gas consumption
+View rewards
+Out of scope
+Collapse
+Program's Out of Scope information
+Best practice critiques
+Centralization risks
+Gas optimizations
+Default Out of Scope and rules
+Smart Contract specific
+Incorrect data supplied by third party oracles
+Not to exclude oracle manipulation/flash loan attacks
+Impacts requiring basic economic and governance attacks
+(e.g. 51% attack)
+Lack of liquidity impacts
+Impacts from Sybil attacks
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+27/30
+
+Impacts involving centralization risks
+All categories
+Impacts requiring attacks that the reporter has already
+exploited themselves, leading to damage
+Impacts caused by attacks requiring access to leaked
+keys/credentials
+Impacts caused by attacks requiring access to privileged
+addresses (including, but not limited to: governance and
+strategist contracts) without additional modifications to the
+privileges attributed
+Impacts relying on attacks involving the depegging of an
+external stablecoin where the attacker does not directly
+cause the depegging due to a bug in code
+Mentions of secrets, access tokens, API keys, private keys,
+etc. in Github will be considered out of scope without proof
+that they are in-use in production
+Best practice recommendations
+Feature requests
+Impacts on test files and configuration files unless stated
+otherwise in the bug bounty program
+Impacts requiring phishing or other social engineering
+attacks against project's employees and/or customers
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+28/30
+
+SOCIALS
+𝕏
+IMU Telegram
+LinkedIn
+YouTube
+Discord
+EXPLORE
+Bug Bounty Programs
+Audits
+Managed Triage
+COMPANY
+About
+Blog
+Careers
+Contact
+Foundation
+TOKEN
+Foundation
+Institutional
+Docs
+IR Contact
+Buy IMU
+DOCUMENTS
+Research
+Press
+Brand Assets
+Help
+LEGAL
+Terms of Use
+Privacy
+Employee Verification
+STAY ON TOP OF
+IMMUNEFI ANNOUNCEMENTS
+Get information and early access to exclusive features, events, and
+updates
+Email
+Join the newsletter
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+29/30
+
+Copyright © Immunefi
+Unified Web3 Security Platform
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/scope/#top
+30/30

@@ -1,0 +1,812 @@
+{
+  "schemaVersion": 2,
+  "slug": "debridge",
+  "generatedAt": "2026-08-07T20:28:15.180Z",
+  "scopeHash": "5ce61933e9883e9e",
+  "chains": [
+    {
+      "chainId": 1,
+      "rootDir": "chains/ethereum-1",
+      "contracts": [
+        {
+          "address": "0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+          "name": "ProxyAdmin",
+          "srcDir": "chains/ethereum-1/src/ProxyAdmin_e442",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/ethereum-1/src/TransparentUpgradeableProxy_43de",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x24455aa55ded7728783c9474be8ea2f5c935f8eb",
+          "name": "DeBridgeGate",
+          "srcDir": "chains/ethereum-1/src/DeBridgeGate_2445",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0x24455aa55ded7728783c9474be8ea2f5c935f8eb",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/ethereum-1/src/TransparentUpgradeableProxy_8244",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+          "name": "DeBridgeToken",
+          "srcDir": "chains/ethereum-1/src/DeBridgeToken_f8a2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+          "name": "DeBridgeTokenDeployer",
+          "srcDir": "chains/ethereum-1/src/DeBridgeTokenDeployer_4c7c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/ethereum-1/src/TransparentUpgradeableProxy_949b",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+          "name": "SignatureVerifier",
+          "srcDir": "chains/ethereum-1/src/SignatureVerifier_fe7d",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/ethereum-1/src/TransparentUpgradeableProxy_8a0c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+          "name": "CallProxy",
+          "srcDir": "chains/ethereum-1/src/CallProxy_bd3d",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/ethereum-1/src/TransparentUpgradeableProxy_c2ba",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+          "name": "SimpleFeeProxy",
+          "srcDir": "chains/ethereum-1/src/SimpleFeeProxy_37a5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+          "name": "WethGate",
+          "srcDir": "chains/ethereum-1/src/WethGate_fcf8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://etherscan.io/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        }
+      ]
+    },
+    {
+      "chainId": 56,
+      "rootDir": "chains/bsc-56",
+      "contracts": [
+        {
+          "address": "0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+          "name": "ProxyAdmin",
+          "srcDir": "chains/bsc-56/src/ProxyAdmin_e442",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/bsc-56/src/TransparentUpgradeableProxy_43de",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x24455aa55ded7728783c9474be8ea2f5c935f8eb",
+          "name": "DeBridgeGate",
+          "srcDir": "chains/bsc-56/src/DeBridgeGate_2445",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0x24455aa55ded7728783c9474be8ea2f5c935f8eb",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/bsc-56/src/TransparentUpgradeableProxy_8244",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+          "name": "DeBridgeToken",
+          "srcDir": "chains/bsc-56/src/DeBridgeToken_f8a2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+          "name": "DeBridgeTokenDeployer",
+          "srcDir": "chains/bsc-56/src/DeBridgeTokenDeployer_4c7c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/bsc-56/src/TransparentUpgradeableProxy_949b",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+          "name": "SignatureVerifier",
+          "srcDir": "chains/bsc-56/src/SignatureVerifier_fe7d",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/bsc-56/src/TransparentUpgradeableProxy_8a0c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+          "name": "CallProxy",
+          "srcDir": "chains/bsc-56/src/CallProxy_bd3d",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/bsc-56/src/TransparentUpgradeableProxy_c2ba",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+          "name": "SimpleFeeProxy",
+          "srcDir": "chains/bsc-56/src/SimpleFeeProxy_37a5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+          "name": "WethGate",
+          "srcDir": "chains/bsc-56/src/WethGate_fcf8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://bscscan.com/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        }
+      ]
+    },
+    {
+      "chainId": 137,
+      "rootDir": "chains/polygon-137",
+      "contracts": [
+        {
+          "address": "0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+          "name": "ProxyAdmin",
+          "srcDir": "chains/polygon-137/src/ProxyAdmin_e442",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/polygon-137/src/TransparentUpgradeableProxy_43de",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xcc7571c12b6f4647c4b8c851b62721f6a373c695",
+          "name": "DeBridgeGate",
+          "srcDir": "chains/polygon-137/src/DeBridgeGate_cc75",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0xcc7571c12b6f4647c4b8c851b62721f6a373c695",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/polygon-137/src/TransparentUpgradeableProxy_8244",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+          "name": "DeBridgeToken",
+          "srcDir": "chains/polygon-137/src/DeBridgeToken_f8a2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+          "name": "DeBridgeTokenDeployer",
+          "srcDir": "chains/polygon-137/src/DeBridgeTokenDeployer_4c7c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/polygon-137/src/TransparentUpgradeableProxy_949b",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+          "name": "SignatureVerifier",
+          "srcDir": "chains/polygon-137/src/SignatureVerifier_fe7d",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/polygon-137/src/TransparentUpgradeableProxy_8a0c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+          "name": "CallProxy",
+          "srcDir": "chains/polygon-137/src/CallProxy_bd3d",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/polygon-137/src/TransparentUpgradeableProxy_c2ba",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+          "name": "SimpleFeeProxy",
+          "srcDir": "chains/polygon-137/src/SimpleFeeProxy_37a5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+          "name": "WethGate",
+          "srcDir": "chains/polygon-137/src/WethGate_fcf8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://polygonscan.com/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        }
+      ]
+    },
+    {
+      "chainId": 42161,
+      "rootDir": "chains/arbitrum-42161",
+      "contracts": [
+        {
+          "address": "0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+          "name": "ProxyAdmin",
+          "srcDir": "chains/arbitrum-42161/src/ProxyAdmin_e442",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/arbitrum-42161/src/TransparentUpgradeableProxy_43de",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x24455aa55ded7728783c9474be8ea2f5c935f8eb",
+          "name": "DeBridgeGate",
+          "srcDir": "chains/arbitrum-42161/src/DeBridgeGate_2445",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0x24455aa55ded7728783c9474be8ea2f5c935f8eb",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/arbitrum-42161/src/TransparentUpgradeableProxy_8244",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+          "name": "DeBridgeToken",
+          "srcDir": "chains/arbitrum-42161/src/DeBridgeToken_f8a2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0xf8A2902c0a5f817F5e22C82f453538d3f0734C2b",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+          "name": "DeBridgeTokenDeployer",
+          "srcDir": "chains/arbitrum-42161/src/DeBridgeTokenDeployer_4c7c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/arbitrum-42161/src/TransparentUpgradeableProxy_949b",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+          "name": "SignatureVerifier",
+          "srcDir": "chains/arbitrum-42161/src/SignatureVerifier_fe7d",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0xfE7De3c1e1BD252C67667B56347cABFC6df08dF4",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/arbitrum-42161/src/TransparentUpgradeableProxy_8a0c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+          "name": "CallProxy",
+          "srcDir": "chains/arbitrum-42161/src/CallProxy_bd3d",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0xBd3d657AE87671eC6f8D6272A9f431a7c4a9B6f8",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/arbitrum-42161/src/TransparentUpgradeableProxy_c2ba",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+          "name": "SimpleFeeProxy",
+          "srcDir": "chains/arbitrum-42161/src/SimpleFeeProxy_37a5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://arbiscan.io/address/0x37a52ddb753c924f8c914de65ef00b5210caa83c",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        }
+      ]
+    },
+    {
+      "chainId": 43114,
+      "rootDir": "chains/avalanche-43114",
+      "contracts": [
+        {
+          "address": "0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+          "name": "ProxyAdmin",
+          "srcDir": "chains/avalanche-43114/src/ProxyAdmin_e442",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0xE4427af3555CD9303D728C491364FAdFDD7494Fe",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/avalanche-43114/src/TransparentUpgradeableProxy_43de",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xb1a20d1c885fd775df97396397d6f8f07abdd20d",
+          "name": "DeBridgeGate",
+          "srcDir": "chains/avalanche-43114/src/DeBridgeGate_b1a2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0xb1a20d1c885fd775df97396397d6f8f07abdd20d",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/avalanche-43114/src/TransparentUpgradeableProxy_8244",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0x8244d6Ffe0695B30b2bAD424683Ee3bc534Ea464",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xc1656B63D9EEBa6d114f6bE19565177893e5bCBF",
+          "name": "DeBridgeToken",
+          "srcDir": "chains/avalanche-43114/src/DeBridgeToken_c165",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0xc1656B63D9EEBa6d114f6bE19565177893e5bCBF",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+          "name": "DeBridgeTokenDeployer",
+          "srcDir": "chains/avalanche-43114/src/DeBridgeTokenDeployer_4c7c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0x4c7CA8fcFFE77281A8B81D4580CFf8257d785491",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/avalanche-43114/src/TransparentUpgradeableProxy_949b",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0x949b3B3c098348b879C9e4F15cecc8046d9C8A8c",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x2a3e72ed893b5958690e16c3bbe1bd92137b6250",
+          "name": "SignatureVerifier",
+          "srcDir": "chains/avalanche-43114/src/SignatureVerifier_2a3e",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0x2a3e72ed893b5958690e16c3bbe1bd92137b6250",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/avalanche-43114/src/TransparentUpgradeableProxy_8a0c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0x8a0C79F5532f3b2a16AD1E4282A5DAF81928a824",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xD34c2302F497b8A7fe2d07865f31dBE04d5044d6",
+          "name": "CallProxy",
+          "srcDir": "chains/avalanche-43114/src/CallProxy_d34c",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0xD34c2302F497b8A7fe2d07865f31dBE04d5044d6",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+          "name": "TransparentUpgradeableProxy",
+          "srcDir": "chains/avalanche-43114/src/TransparentUpgradeableProxy_c2ba",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0xC2bAC0DB5B18B0c3225581Ba14BD0B448c623636",
+          "build": {
+            "compilerVersion": "v0.8.2+commit.661d1103",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0x27406ebf0b76923d93b4c6c6224bcab7fff11f87",
+          "name": "SimpleFeeProxy",
+          "srcDir": "chains/avalanche-43114/src/SimpleFeeProxy_2740",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0x27406ebf0b76923d93b4c6c6224bcab7fff11f87",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        },
+        {
+          "address": "0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+          "name": "WethGate",
+          "srcDir": "chains/avalanche-43114/src/WethGate_fcf8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "explorerUrl": "https://snowtrace.io/address/0xFCf83648b8cDeF62e5d03319a6f1FCE16e4D6A59",
+          "build": {
+            "compilerVersion": "v0.8.7+commit.e28d00a7",
+            "optimizerRuns": 200
+          }
+        }
+      ]
+    }
+  ],
+  "buildSummary": {
+    "totalProfiles": 74,
+    "compiledOk": 0,
+    "compiledFail": 0,
+    "failedProfiles": []
+  }
+}

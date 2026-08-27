@@ -1,0 +1,254 @@
+Back to Explore
+PoC Required
+Submit a Bug
+deBridge
+deBridge is a cross-chain interoperability and liquidity transfer
+protocol that allows decentralized transfer of data and assets
+between various blockchains. The deBridge protocol is an
+infrastructure platform and hooking service for:
+Arbitrum
+Avalanche
+BSC
+ETH
+Fantom
+Heco
+Polygon
+Defi
+Infrastructure
+Bridge
+Crosschain Liquidity
+DEX
+Solidity
+Maximum Bounty
+$200,000
+Live Since
+21 January
+2022
+Last Updated
+08 October
+2025
+Information
+Scope
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/information/#top
+1/9
+
+Rewards
+Rewards by Threat Level
+Smart Contract
+Critical
+Flat: $200,000
+Primacy of Rules
+High
+Flat: $40,000
+Primacy of Rules
+Medium
+deBridge provides rewards in USDC or USDT on Avalanche,
+Arbitrium, denominated in USD.
+Total Assets in Scope
+90
+Resources
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/information/#top
+2/9
+
+Flat: $5,000
+Primacy of Rules
+Rewards Body
+Rewards are distributed according to the impact of the
+vulnerability based on the Immunefi Vulnerability Severity
+Classification System V2.2. This is a simplified 5-level scale,
+with separate scales for websites/apps and smart
+contracts/blockchains, encompassing everything from
+consequence of exploitation to privilege required to likelihood
+of a successful exploit.
+In addition to Immunefi’s Vulnerability Severity Classification
+System, deBridge classifies the following vulnerabilities as
+follows. In case of discrepancy, the one below will be followed.
+Critical
+More than 5% of the loss of TVL or an unauthorized
+minting of deAssets in an amount that leads to
+substantial loss of the peg of the wrapped asset (Total
+supply of deAsset exceeds amount of underlying
+collateral locked for more than 5%)
+High
+Up to 5% of the loss of TVL or an unauthorized minting of
+deAssets in an amount that leads to substantial loss of
+the peg of the wrapped asset (Total supply of deAsset is
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/information/#top
+3/9
+
+on up to 5% exceeds the amount of underlying collateral
+locked)
+The following vulnerabilities/problems are not eligible for a
+reward:
+Default bridging functionality doesn’t support non-
+standard assets (e.g. rebase assets, assets with elastic
+supply or tokens with fees during transfer)
+If a user sets an incorrect receiver or fallback address he
+won’t be able to claim his transfer in the destination
+chain and funds might be locked forever
+If user passes ​REVERT_IF_EXTERNAL_FAIL flag and
+specifies "data" and "receiver address" params that will
+lead to tx being constantly reverted
+Framework used by the deBridge node exploitation of
+which requires knowledge of IP address unless
+information about IP address was obtained during the
+attack
+Problem with the callProxy smart contract when gas limit
+specified by claimer is not enough for the proper
+execution of the externalCall that leads to externalCall
+being reverted even though transaction itself is
+completed
+Payouts are handled by the deBridge team directly and are
+denominated in USD. However, payouts are done in USDT and
+USDC, with the choice of the ratio at the discretion of the
+team.
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/information/#top
+4/9
+
+View impacts in scope
+Program Overview
+deBridge is a cross-chain interoperability and liquidity
+transfer protocol that allows decentralized transfer of data
+and assets between various blockchains. The deBridge
+protocol is an infrastructure platform and hooking service for:
+cross-chain composability of smart contracts
+cross-chain swaps
+bridging of any arbitrary asset and data
+interoperability and bridging of NFTs
+More information about the project can be also found in the
+documentation portal or at the website
+https://debridge.finance/.
+Examples of how users can interact with the protocol from
+the command line can be found in the repository:
+https://github.com/debridge-finance/debridge-contracts-
+v1/tree/main/examples.
+Status of transactions can be tracked through the deBridge
+explorer.
+This bug bounty program is focused on their smart contracts
+and is focused on preventing:
+Loss of user funds locked (principal) by freezing or theft
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/information/#top
+5/9
+
+KYC not required
+Proof of Concept
+Proof of concept is always required for all
+severities.
+Prohibited Activities
+Loss of governance funds
+Theft of unclaimed assets
+Permanent freezing of unclaimed assets
+Smart contract fails to deliver promised returns
+Unauthorized minting of wrapped assets that will lead
+them to loosing peg
+No KYC information is required for payout processing.
+Default prohibited activities
+Any testing on mainnet or public testnet deployed code; all
+testing should be done on local-forks of either public testnet
+or mainnet
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/information/#top
+6/9
+
+Feasibility Limitations
+Any testing with pricing oracles or third-party smart
+contracts
+Attempting phishing or other social engineering attacks
+against our employees and/or customers
+Any testing with third-party systems and applications (e.g.
+browser extensions) as well as websites (e.g. SSO providers,
+advertising networks)
+Any denial of service attacks that are executed against
+project assets
+Automated testing of services that generates significant
+amounts of traffic
+Public disclosure of an unpatched vulnerability in an
+embargoed bounty
+Any other actions prohibited by the Immunefi Rules
+The project may be receiving reports that are valid (the bug
+and attack vector are real) and cite assets and impacts that
+are in scope, but there may be obstacles or barriers to
+executing the attack in the real world. In other words, there is
+a question about how feasible the attack really is. Conversely,
+there may also be mitigation measures that projects can take
+to prevent the impact of the bug, which are not feasible or
+would require unconventional action and hence, should not
+be used as reasons for downgrading a bug's severity.
+Therefore, Immunefi has developed a set of feasibility
+limitation standards which by default states what security
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/information/#top
+7/9
+
+researchers, as well as projects, can or cannot cite when
+reviewing a bug report.
+Chain Rollbacks
+•
+Pre-Impact Bug Monitoring
+•
+Attack Investment Amount
+•
+Attacks With A Financial Risk To The Attacker
+•
+When Is An Impactful Attack Downgraded To Griefing?
+•
+STAY ON TOP OF
+IMMUNEFI ANNOUNCEMENTS
+Get information and early access to exclusive features, events, and
+updates
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/information/#top
+8/9
+
+SOCIALS
+𝕏
+IMU Telegram
+LinkedIn
+YouTube
+Discord
+EXPLORE
+Bug Bounty Programs
+Audits
+Managed Triage
+COMPANY
+About
+Blog
+Careers
+Contact
+Foundation
+TOKEN
+Foundation
+Institutional
+Docs
+IR Contact
+Buy IMU
+DOCUMENTS
+Research
+Press
+Brand Assets
+Help
+LEGAL
+Terms of Use
+Privacy
+Employee Verification
+Copyright © Immunefi
+Unified Web3 Security Platform
+Email
+Join the newsletter
+07/08/2026, 23:03
+deBridge Bug Bounties | Immunefi
+https://immunefi.com/bug-bounty/debridge/information/#top
+9/9
